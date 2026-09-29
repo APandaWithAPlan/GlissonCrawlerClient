@@ -1,0 +1,8 @@
+evidence/*
+!evidence/README.txt
+
+.env
+.3env
+
+__pycache__/
+*.pyc

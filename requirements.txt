@@ -1,0 +1,5 @@
+ollama>=0.3.3
+gradio>=4.44.0
+exifread>=3.0.0
+pillow>=10.0.0
+pyfiglet>=1.0.2
